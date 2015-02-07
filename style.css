@@ -1,0 +1,21 @@
+body{
+	font-family: helvetica, arial; 
+}
+input{
+	display:block;
+	margin:0 0 30px 0;
+	width:30%;
+}
+.address {
+	margin:0 0 5px 0;
+}
+.address2 {
+	margin:0 0 5px 0;
+}
+.invalidEntry {
+	border: 1px solid #B20000;
+}
+
+.phone10 {
+	border: 1px solid 	#00CC66;
+}
